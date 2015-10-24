@@ -1,0 +1,11 @@
+Goal
+
+Find the last record in a table.
+
+Best Solution
+
+$namevariable = Namecontroller::find()->max('name_id');
+
+Alternatives
+
+A lot, but I forgot.
